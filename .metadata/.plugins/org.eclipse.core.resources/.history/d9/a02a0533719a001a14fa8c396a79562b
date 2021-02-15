@@ -1,0 +1,11 @@
+package com.malleswara.hibernate.example;
+
+public class UsersTest {
+	
+	int userid;
+	String username;
+	String password;
+	String firstname;
+	String lastname;
+
+}

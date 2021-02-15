@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/vamsi/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.5.2/junit-jupiter-params-5.5.2.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/spring-jcl/5.2.6.RELEASE/spring-jcl-5.2.6.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.7.RELEASE/spring-boot-autoconfigure-2.2.7.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/spring-aop/5.2.6.RELEASE/spring-aop-5.2.6.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/boot/spring-boot-starter-test/2.2.7.RELEASE/spring-boot-starter-test-2.2.7.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/boot/spring-boot-test/2.2.7.RELEASE/spring-boot-test-2.2.7.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/junit/jupiter/junit-jupiter/5.5.2/junit-jupiter-5.5.2.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/yaml/snakeyaml/1.25/snakeyaml-1.25.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/spring-core/5.2.6.RELEASE/spring-core-5.2.6.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/spring-expression/5.2.6.RELEASE/spring-expression-5.2.6.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/boot/spring-boot-test-autoconfigure/2.2.7.RELEASE/spring-boot-test-autoconfigure-2.2.7.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/assertj/assertj-core/3.13.2/assertj-core-3.13.2.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.2.7.RELEASE/spring-boot-starter-logging-2.2.7.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/spring-test/5.2.6.RELEASE/spring-test-5.2.6.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/boot/spring-boot/2.2.7.RELEASE/spring-boot-2.2.7.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/xmlunit/xmlunit-core/2.6.4/xmlunit-core-2.6.4.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/mockito/mockito-junit-jupiter/3.1.0/mockito-junit-jupiter-3.1.0.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/net/bytebuddy/byte-buddy/1.10.10/byte-buddy-1.10.10.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/net/minidev/json-smart/2.3/json-smart-2.3.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/net/bytebuddy/byte-buddy-agent/1.10.10/byte-buddy-agent-1.10.10.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/mockito/mockito-core/3.1.0/mockito-core-3.1.0.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/springframework/boot/spring-boot-starter/2.2.7.RELEASE/spring-boot-starter-2.2.7.RELEASE.jar"/>
+  <path value="C:/Users/vamsi/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.12.1/log4j-to-slf4j-2.12.1.jar"/>
+ </paths>
+ <validation>
+  <el>
+   <linked-el length="32" name="%0" offset="143911" path="%1"/>
+   <linked-el length="48" name="%2" offset="17306" path="%1"/>
+   <linked-el length="19" name="%3" offset="29158" path="%1"/>
+   <linked-el length="34" name="%3" offset="42120" path="%1"/>
+   <linked-el length="34" name="%3" offset="37575" path="%1"/>
+   <linked-el length="35" name="%4" offset="102553" path="%1"/>
+   <linked-el length="70" name="%5" offset="18031" path="%1"/>
+   <linked-el length="21" name="%6" offset="150658" path="%1"/>
+   <linked-el length="21" name="%6" offset="150547" path="%1"/>
+   <linked-el length="32" name="%7" offset="143911" path="%1"/>
+   <linked-el length="70" name="%8" offset="18031" path="%1"/>
+   <linked-el length="41" name="%9" offset="41148" path="%1"/>
+   <linked-el length="19" name="%10" offset="29158" path="%1"/>
+   <linked-el length="32" name="%11" offset="529" path="%12"/>
+   <linked-el length="27" name="%11" offset="673" path="%12"/>
+   <linked-el length="34" name="%13" offset="42120" path="%1"/>
+   <linked-el length="70" name="%13" offset="18031" path="%1"/>
+   <linked-el length="49" name="%13" offset="17196" path="%1"/>
+   <linked-el length="48" name="%13" offset="17306" path="%1"/>
+   <linked-el length="34" name="%13" offset="37575" path="%1"/>
+   <linked-el length="97" name="%14" offset="109341" path="%1"/>
+   <linked-el length="78" name="%15" offset="85476" path="%1"/>
+   <linked-el length="34" name="%16" offset="42120" path="%1"/>
+   <linked-el length="32" name="%17" offset="529" path="%12"/>
+   <linked-el length="27" name="%17" offset="673" path="%12"/>
+   <linked-el length="24" name="%18" offset="24828" path="%1"/>
+   <linked-el length="24" name="%18" offset="27050" path="%1"/>
+   <linked-el length="32" name="%19" offset="529" path="%12"/>
+   <linked-el length="27" name="%19" offset="673" path="%12"/>
+   <linked-el length="49" name="%20" offset="17196" path="%1"/>
+   <linked-el length="48" name="%20" offset="17306" path="%1"/>
+   <linked-el length="35" name="%21" offset="102553" path="%1"/>
+   <linked-el length="34" name="%22" offset="42120" path="%1"/>
+   <linked-el length="70" name="%22" offset="18031" path="%1"/>
+   <linked-el length="49" name="%22" offset="17196" path="%1"/>
+   <linked-el length="24" name="%22" offset="24828" path="%1"/>
+   <linked-el length="24" name="%22" offset="27050" path="%1"/>
+   <linked-el length="34" name="%22" offset="37575" path="%1"/>
+   <linked-el length="32" name="%23" offset="529" path="%12"/>
+   <linked-el length="27" name="%23" offset="673" path="%12"/>
+   <linked-el length="70" name="%24" offset="18031" path="%1"/>
+   <linked-el length="49" name="%24" offset="17196" path="%1"/>
+   <linked-el length="48" name="%24" offset="17306" path="%1"/>
+   <linked-el length="32" name="%25" offset="529" path="%12"/>
+   <linked-el length="27" name="%25" offset="673" path="%12"/>
+   <linked-el length="32" name="%26" offset="143911" path="%1"/>
+   <linked-el length="70" name="%27" offset="18031" path="%1"/>
+   <linked-el length="34" name="%28" offset="37575" path="%1"/>
+   <linked-el length="70" name="%29" offset="18031" path="%1"/>
+   <linked-el length="49" name="%29" offset="17196" path="%1"/>
+   <linked-el length="48" name="%29" offset="17306" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="integration.version" value="%0"/>
+  <alias path="mesage" value="%2"/>
+  <alias path="server" value="%3"/>
+  <alias path="project" value="%4"/>
+  <alias path="error" value="%5"/>
+  <alias path="System" value="%6"/>
+  <alias path="spring" value="%7"/>
+  <alias path="default" value="%8"/>
+  <alias path="VAULT_TOKEN" value="%9"/>
+  <alias
+   path="/springboot/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.14.0.20191209-1925.xml" value="%12"/>
+  <alias path="server.port" value="%10"/>
+  <alias path="org.eclipse.m2e.log" value="%11"/>
+  <alias path="from" value="%13"/>
+  <alias path="MI" value="%14"/>
+  <alias path="springCloudVersion" value="%15"/>
+  <alias path="vault" value="%16"/>
+  <alias
+   path="/springboot/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" value="%1"/>
+  <alias path="org.eclipse.m2e.log.dir" value="%17"/>
+  <alias path="bootiful" value="%18"/>
+  <alias path="org" value="%19"/>
+  <alias path="properties.OOPS" value="%20"/>
+  <alias path="project.artifactId" value="%21"/>
+  <alias path="message" value="%22"/>
+  <alias path="org.eclipse.m2e" value="%23"/>
+  <alias path="application" value="%24"/>
+  <alias path="org.eclipse" value="%25"/>
+  <alias path="integration" value="%26"/>
+  <alias path="message.YIKES" value="%27"/>
+  <alias path="config" value="%28"/>
+  <alias path="properties" value="%29"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

@@ -1,0 +1,10 @@
+package com.malleswara.spring.xmlconfiguration;
+
+public class Application {
+
+	public static void main(String[] args) {
+
+		
+	}
+
+}

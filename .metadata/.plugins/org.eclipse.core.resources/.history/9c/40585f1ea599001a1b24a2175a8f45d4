@@ -1,0 +1,14 @@
+package com.malleswara.spring.javabased.configuration;
+
+
+public class AppConfig {
+	
+	
+     public HelloWorld helloWorld() {
+    	 HelloWorld  helloWorld = new HelloWorld();
+    	 helloWorld.setMessage("Spring Java Based COnfiguration..........");
+		return helloWorld;
+    	 
+    	 
+     }
+}

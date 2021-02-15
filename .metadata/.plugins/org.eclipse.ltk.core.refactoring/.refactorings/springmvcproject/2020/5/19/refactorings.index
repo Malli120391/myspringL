@@ -1,0 +1,7 @@
+1588841677376	Extract local variable 'modelAndView'
+1588842002129	Rename package 'com.malleswara.spring.springmvcproject'
+1588849542389	Extract local variable 'attributeValue'
+1588850328963	Copy compilation unit
+1588851908428	Delete element
+1588928484511	Move 'dispatcher-servlet.xml' to 'WEB-INF'
+1588988912479	Copy file

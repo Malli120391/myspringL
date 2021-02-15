@@ -1,0 +1,31 @@
+package com.malleswara.hibernate;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+import com.malleswara.hibernate.example.UsersTest;
+
+public class App {
+
+	public static void main(String[] args) {
+		
+		SessionFactory factory = new Configuration()
+				.configure("hibernate.cfg.xml")
+				.addAnnotatedClass(UsersTest.class)
+				.buildSessionFactory();
+		
+		Session session = factory.getCurrentSession();
+		
+		try {
+			
+			UsersTest userstest = new UsersTest("username", "password", "firstName", "lastName");
+			session.beginTransaction();
+			
+			
+		} finally {
+			session.close();
+			factory.close();
+		}
+	}
+}

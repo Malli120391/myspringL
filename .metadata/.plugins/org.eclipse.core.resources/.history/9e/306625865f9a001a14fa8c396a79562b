@@ -1,0 +1,10 @@
+package com.javadevsguide.springframework.di.service.MessageService;
+
+import com.javadevsguide.springframework.di.MessageService;
+
+public class SetterBasedInjection {
+	
+	private MessageService messageservice;
+	
+
+}

@@ -1,0 +1,5 @@
+package com.javadevsguide.springframework.di.config;
+
+public class AppConfiguration {
+
+}

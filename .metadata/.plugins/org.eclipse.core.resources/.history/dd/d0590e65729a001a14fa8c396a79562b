@@ -1,0 +1,18 @@
+package com.malleswara.hibernate.example;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "userstest")
+public class UsersTest {
+	
+	@Id
+	int userid;
+	String username;
+	String password;
+	String firstName;
+	String lastName;
+
+}

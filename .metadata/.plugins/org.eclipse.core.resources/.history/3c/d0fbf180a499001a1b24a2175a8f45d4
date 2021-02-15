@@ -1,0 +1,8 @@
+package com.malleswara.spring.javabased.configuration;
+
+public class HelloWorld {
+	
+	private String message;
+	
+
+}

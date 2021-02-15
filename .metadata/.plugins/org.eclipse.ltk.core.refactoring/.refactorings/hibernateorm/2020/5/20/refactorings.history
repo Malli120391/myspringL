@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;hibernateorm&apos;&#x0D;&#x0A;- Original project: &apos;hibernateorm&apos;&#x0D;&#x0A;- Original element: &apos;hibernateorm/src/test/java/com.malleswara.hibernate.hibernateorm&apos;" description="Delete element" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.malleswara.hibernate.hibernateorm" element2="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.malleswara.hibernate" element3="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.malleswara" element4="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1589435638708" subPackages="false" version="1.0"/>
+</session>

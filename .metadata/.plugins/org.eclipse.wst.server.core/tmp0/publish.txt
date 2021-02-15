@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun May 10 14:04:04 IST 2020
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\vamsi\\.m2\\repository\\org\\springframework\\spring-web\\4.3.6.RELEASE\\spring-web-4.3.6.RELEASE.jar=E\:\\apache-tomcat-8.5.54\\wtpwebapps\\springmvcproject\\WEB-INF\\lib\\spring-web-4.3.6.RELEASE.jar
+org.eclipse.jst.j2ee.server\:springmvcorm=E\:\\apache-tomcat-8.5.54\\wtpwebapps\\springmvcorm
+org.eclipse.jst.j2ee.server\:springmvcproject=E\:\\apache-tomcat-8.5.54\\wtpwebapps\\springmvcproject
